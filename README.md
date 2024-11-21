@@ -1,2 +1,0 @@
-# Daniel Crimp
-Hello world! 🏍️
