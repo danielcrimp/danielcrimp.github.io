@@ -1,3 +1,2 @@
-# danielcrimp.github.io
-Giddy
-Personal website attempt number.... 3?
+# Daniel Crimp
+Hello world! 🏍️
