@@ -4,11 +4,11 @@ tags: home
 ---
 
 
-### Gidday, <br/> I'm Daniel Crimp.
+### Gidday, I'm Dan.
 
-I'm a data enthusiast, project manager, runner, traveller and photographer.
+I make stuff, usually with code.
 
-Currently, I work at [Mesh-AI](https://www.mesh-ai.com/), a data consultancy focussed on reimagining enterprise intelligence.
+Currently, I work at [Mesh-AI](https://www.mesh-ai.com/).
 
 <br>
 
