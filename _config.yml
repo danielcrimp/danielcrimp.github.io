@@ -1,7 +1,7 @@
 # Setup
 title:               Dan's Blog
 description:         I make stuff.
-url:                 "danielcrimp.github.io"
+url:                 ""
 baseurl:             ''
 paginate:            5
 permalink:           pretty
