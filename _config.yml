@@ -1,21 +1,59 @@
-# Setup
-title:               Dan's Blog
-description:         I make stuff.
-url:                 ""
-baseurl:             ''
-paginate:            5
-permalink:           pretty
+# Site settings
+title: Dan Crimp
+author: Daniel Crimp
+description: "Antipodean vibes, podean execution"
+baseurl: ""
+url: "https://dancrimp.nz"
+date_format: "%b %-d, %Y"
 
-# About/contact
-author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+# Google services
+google_verification:
+google_tag_manager:
+# Bing services
+bing_verification:
 
-# Gems
+# Optional features
+show_related_posts: True
+show_post_footers: True
+show_subscribe_cta: True
+show_social_icons: True
+extended_fonts: false
+enable_anchorjs: true
+
+# Social icons
+github_username: danielcrimp
+stackoverflow_id:
+linkedin_username: daniel-crimp
+
+text:
+  pagination:
+    newer: "Newer"
+    older: "Older"
+  post:
+    updated: "Updated"
+    minute_read: "minute read"
+    related_posts: "More to read"
+  index:
+    coming_soon: "Coming soon..."
+  og_locale: "en_UK"
+
+# Build settings
+markdown: kramdown
+redcarpet:
+  extensions: ["smart", "tables", "with_toc_data", "footnotes"]
+permalink: pretty
+paginate: 12
+paginate_path: "/blog/:num/"
+sass:
+  compressed: true
 plugins:
   - jekyll-paginate
+  - jekyll-sitemap
+exclude: [vendor]
 
-# Custom vars
-version:             1.1.0
-google_analytics_id: #UA-XXXX-Y
+collections_dir: collections
+collections:
+  reviews:
+    output: true
+  portfolio:
+    output: true

@@ -1,0 +1,28 @@
+<nav class="">
+<ul id="main-menu" data-nav-showing="false">
+  <!-- <li class="nav-jr home-anc"><h4><a href="#home"><br></a></h4></li> -->
+  {% assign current = page.url | downcase | split: '/' %}
+  <div class="flexbox-parent" style="display: flex; flex-wrap: wrap">
+      <li class="home-anc" style="display: inline">
+        <a class="nav-underline home {% if page.url == '/' %}current{% endif %}" href="{{site.url}}">Home</a>
+      </li>
+      <li class="about-anc" style="display: inline">
+        <a class="nav-underline about {% if page.url == '/about/' %}current{% endif %}" href="{{site.url}}/about">About</a>
+      </li>
+      <li class="posts-anc"  style="display: inline">
+        <a class="nav-underline blog {% if page.url == '/posts/' %}current{% endif %}" href="{{site.url}}/blog">Posts</a>
+      </li>
+      <li class="photography-anc" style="display: inline">
+        <a class="about {% if page.url == '/photography/' %}current{% endif %}" href="{{site.url}}/photography">📷</a>
+      </li>
+      <li class="running-anc" style="display: inline">
+        <a class="about {% if page.url == '/running/' %}current{% endif %}" href="{{site.url}}/running">🏃</a>
+      </li>
+      <li>
+        {% if site.show_social_icons %}
+        {% include social_links.html %}
+        {% endif %}
+      </li>
+  </div>
+</ul>
+</nav>

@@ -1,29 +1,28 @@
 ---
-layout: page
-title: About
+layout: about
+permalink: /about/
+title: about me
+tags: about
+headshot: /images/crimpy.jpg
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## present
+I live and work in London, in the UK 🇬🇧
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I work as a data science and software engineering consultant, but am becoming increasingly involved in startups and personal projects.
 
-There are currently two themes built on Poole:
+I run a lot, explore the UK on my motorbike, and tinker with cameras in my spare time.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+## past
+- 🇳🇿 I was born and raised in Greytown, in the Wairarapa region of New Zealand.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+- 🤖 I studied Mechatronics at Massey University, but it was a heavily robotics focussed curriculum. That's where I learned to code. I also wrote [a paper](https://www.researchgate.net/publication/327522823_Development_of_a_Micromanipulation_Platform_with_Passive-Active_Hybrid_Release_Strategy_for_Single-Cell_Separation)  on picking up really, really small things.
 
-## Setup
+- ✈️ After uni, I took a Control Systems Engineering job at a consultancy. We designed systems that would safely get fuel to fighter jets (among other, much less sexy things).
 
-Some fun facts about the setup of this project include:
+- 🗼 I wanted to focus on code, so I moved on to a role at Transpower, NZs national grid operator. NZ has ~23,000 transmission towers and they all need looking after. I built models that would predict which towers needed the most attention.
 
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
+- 🌍 Then, I wanted to travel. I sold everything I had and spent 6 months travelling Europe and the UK. The energy sector roped me back in, and I wound up working for National Grid via my employer, Mesh-AI, developing AI-powered planning tools. My current project  building a data platform for an energy trading organisation.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+## future
+In the future, I want to work part time so I can focus on family, creativity and community. This will probably mean building a business of my own, or contributing signficantly to ventures by others. In the last couple years, I've started to make changes towards that goal. This site is one of those changes. So, thanks for your help.
