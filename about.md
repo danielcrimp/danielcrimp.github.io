@@ -7,7 +7,7 @@ headshot: /images/crimpy.jpg
 ---
 
 ## present
-I live and work in London, in the UK 🇬🇧
+I live in London, in the UK 🇬🇧
 
 I work as a data science and software engineering consultant, but am becoming increasingly involved in startups and personal projects.
 
