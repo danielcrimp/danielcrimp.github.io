@@ -1,9 +1,15 @@
 ---
 layout: post
-title: Designing and Building a Camera
+title: (WIP) Designing and Building a Camera
 date: 2023-06-01
 summary: For fun and eye-watering expenditure
 ---
+
+<div class="image-grid" markdown="1">
+  ![Nikon](/images/camera_build/camera.png)
+  ![Agfa](/images/camera_build/sample_pic.png)
+</div>
+
 
 I made a plan with a friend to tour the UK in 2024 on motorcycles. I was short on annual leave, so we only had one trip to put in the calendar. Being a film photography enthusiast, my mind immediately went to how I might record this journey in a creative way.
 <!-- 
