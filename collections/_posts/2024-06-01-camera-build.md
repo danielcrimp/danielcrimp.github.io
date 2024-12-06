@@ -12,8 +12,7 @@ summary: For fun and eye-watering expenditure
 
 
 I made a plan with a friend to tour the UK in 2024 on motorcycles. I was short on annual leave, so we only had one trip to put in the calendar. Being a film photography enthusiast, my mind immediately went to how I might record this journey in a creative way.
-<!-- 
-![Agfa](/images/camera_build/agfa.png){: style="display:block; margin: 0 auto; width:400px; border-radius:15px;" } -->
+
 <div class="image-grid" markdown="1">
   ![Nikon](/images/camera_build/nikon.png)
   ![Agfa](/images/camera_build/agfa.png)
