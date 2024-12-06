@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Designing and Building a Camera (WIP) 
-date: 2023-08-25
+date: 2024-08-25
 summary: For fun and eye-watering expenditure
 ---
 

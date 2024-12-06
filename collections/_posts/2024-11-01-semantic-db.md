@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Semantic Space as a DB
-date: 2023-11-01
+date: 2024-11-01
 summary: Experimenting with the idea of storing everything in one big multidimensional box.
 ---
 
