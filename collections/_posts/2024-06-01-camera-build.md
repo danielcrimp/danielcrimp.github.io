@@ -44,3 +44,22 @@ Unfortunately, nothing I had at hand would achieve this. So I went to market.
 
 
 Obviously, the final option was the best choice.
+
+*This post is a work in progress. More will be added in future.*
+
+# TODO
+- Draw up Design Criteria
+- Explain/draw up future state camera
+  - SLR
+  - Zoom lens for flexible framing
+  - liquid lens
+- Explain/draw up what I selected for MVP
+  - mechanical vs electric shutter
+  - zoom vs fixed lens
+- GIF of change history of CAD
+- Explain lateral film transport design
+- Volume comparison with Agfa
+- Explain half-frame
+- Explain shutter selection
+- Explain lightproofing
+- Explain indexing mechanism
