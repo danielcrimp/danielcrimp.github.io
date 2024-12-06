@@ -3,33 +3,39 @@ layout: default
 tags: photos
 ---
 
-{% assign posts_count = site.posts | size %}
+<style>
+  .photo-grid {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 1rem;
+}
+
+.photo-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.photo-item p {
+    text-align: center;
+    font-style: italic;
+    color: rgba(128, 128, 128, 0.6); /* Slightly transparent grey */
+    margin-top: 0.5rem; /* Add space between the image and the caption */
+  }
+
+</style>
 
 <h1>Photography</h1>
 
-<div class="home">
-  {% if posts_count > 0 %}
-  <div class="posts">
-    {% for post in paginator.posts %}
-    <div class="post py3">
-      <p class="post-meta">
-        <span>{{ post.date | date: site.date_format }}</span>
-        {% if post.tags contains "popular" %}
-        <span class="post-meta-popular-tag">Popular</span>
-        {% endif %}
-      </p>
-      <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"
-        ><h3 class="h2 post-title">{{ post.title }}</h3></a
-      >
-      <p class="post-summary">
-        {% if post.summary %} {{ post.summary }} {% else %} {{ post.excerpt }}
-        {% endif %}
-      </p>
-    </div>
-    {% endfor %}
+<div class="photo-grid">
+  {% assign photos = site.photos %}
+  {% for photo in photos %}
+  <div class="photo-item">
+    <a>
+    <!-- <a href="{{ photo.url | prepend:site.baseurl }}"> -->
+      <img src="{{ photo.image }}" alt="{{ photo.caption }}">
+    </a>
+    <p>{{ photo.caption | default:"no caption" }} - {{ photo.camera }} - {{ photo.shot_details }}</p>
   </div>
-  <!-- {% include pagination.html %} {% if site.show_subscribe_cta %} {% include
-  subscribe.html %} {% endif %} {% else %} -->
-  <h1 class="center">{{ site.text.index.coming_soon }}</h1>
-  {% endif %}
+  {% endfor %}
 </div>
