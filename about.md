@@ -9,14 +9,14 @@ headshot: /images/crimpy.jpg
 ## present
 I live in London, in the UK 🇬🇧
 
-I work as a data science and software engineering consultant, but am becoming increasingly involved in startups and personal projects.
+I work as a software consultant, but I'm a hardware guy at heart. I'm also becoming increasingly involved in startups and personal projects.
 
 I run a lot, explore the UK on my motorbike, and tinker with cameras in my spare time.
 
 ## past
 - 🇳🇿 I was born and raised in Greytown, in the Wairarapa region of New Zealand.
 
-- 🤖 I studied Mechatronics at Massey University, but it was a heavily robotics focussed curriculum. That's where I learned to code. I built a robot that could pick up really, *really* small things, and wrote [a paper](https://www.researchgate.net/publication/327522823_Development_of_a_Micromanipulation_Platform_with_Passive-Active_Hybrid_Release_Strategy_for_Single-Cell_Separation) about it
+- 🤖 I studied Mechatronics at Massey University, but it was a heavily robotics focussed curriculum. That's where I learned to code. I built a robot that could pick up really, [*really* small things](https://www.researchgate.net/figure/Grab-and-release-trial-on-173mmdocumentclass12ptminimal-usepackageamsmath_fig4_328941199), and wrote [a paper](https://www.researchgate.net/publication/327522823_Development_of_a_Micromanipulation_Platform_with_Passive-Active_Hybrid_Release_Strategy_for_Single-Cell_Separation) about it
 
 - ✈️ After uni, I took a Control Systems Engineering job at a consultancy. We designed systems that would safely get fuel to fighter jets (among other, much less sexy things).
 
