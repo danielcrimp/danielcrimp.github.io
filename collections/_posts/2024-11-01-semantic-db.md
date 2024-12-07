@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Semantic Space as a DB
+title: Notes on using Semantic Space as a DB
 date: 2024-11-01
-summary: Experimenting with the idea of storing everything in one big multidimensional box.
+summary: Storing everything in one big multidimensional box.
 ---
 
-> NOTE: *This is a mirror of the readme for a repo you can find [here](https://github.com/danielcrimp/embeddings-exploration)*
+> NOTE: *This is an adaptation of the readme for a repo you can find [here](https://github.com/danielcrimp/embeddings-exploration)*
 
 <br>
 
@@ -15,11 +15,19 @@ A common problem in software development is poor **data quality**. In my experie
 
 Data quality issues seem unrelated to the type of database - relational, graph, whatever - we select. These methods have difficulties in that editing their schema to support new concepts and populating the new schema with accurate information is a costly exercise.
 
-I have a theory that semantic spaces could be a method of storing knowledge that would have a much easier time adapting to changing requirements, and therefore be more resilient to data quality issues.
+I have a theory that semantic spaces (read: embeddings models) could be a method of storing knowledge that would have a much easier time adapting to changing requirements, and therefore be more resilient to data quality issues.
 
-Further, fine-tuning **foundational** embeddings models (which capture general knowledge of the world) to organisational data (which capture organisational knowledge) could mean businesses can connect internal symbols (i.e. a number representing a Circuit - CCT-20543772) through arbitrary external symbols (i.e. locations, weather conditions) to useful data (estimates of moisture content per circuit, to inform a rust-prevention programme). In this way, semantic knowledge stores could present a transformative database technology. However, the practicality of such a database, reliability, implementation details, strengths, weaknesses and interaction modes are unclear.
+Further, fine-tuning **foundational** embeddings models (which capture general knowledge of the world) to organisational data (which capture organisational knowledge) could enable a potent general analysis capability. Organisations would be able to rapidly connect internal concepts to world concepts, circumventing the need for expensive data collection tasks.
 
-This method of storing information could also hold or be augmented with a predictive capability that would allow extrapolation of facts from what has been provided.
+For example, say at a Transmission Utility, we had a record in a database representing a tower "TWR-89047882". We can picture what that number represents because we have world knowledge of what a transmission tower looks like, what purpose it serves, et cetera. If we saw a Location of "London" against that tower in the database, we would actually understand quite a lot about what that tower's existence might look like - only having seen a few bytes of data. If we were to fill out a column "Weather" against each tower, we wouldn't have to think hard before we wrote "Rainy" in that row.
+
+Let's say we have a predictive maintenance software that automatically generates maintenance work orders. For its rust-prevention maintenance module, it requires data on the weather conditions at each asset. Systems such as this maintenance software do not have the benefit of this world knowledge. We have to hire a data analyst or data scientist to join some weather data to each Tower such that the rust-prevention module will issue the correct work orders.
+
+Now suppose we have the proposed embeddings model from earlier - a foundational embeddings model fine-tuned such that the organisations' relational data could be extracted. It'll place the string "TWR-89047882" at some location in semantic space. We should be able to navigate to its Location - London - nearby. The model will already have London quite well understood, so we should be able to make an additional hop to "Rainy". Our predictive maintenance software is now happy, and we didn't even touch a jupyter notebook.
+
+It'd be like having human knowledge available to fill out any column against your relational data - feeding many studies, programmes of work and analyses that would otherwise require significant effort.
+
+In this way, semantic knowledge stores could present a transformative database technology. However, the practicality of such a database, reliability, implementation details, strengths, weaknesses and interaction modes are unclear.
 
 ### How are facts represented in Semantic Space?
 
@@ -124,7 +132,7 @@ This Word2Vec model is quite lightweight - a couple of gigabytes and 300 dimensi
 
     We glossed over that we could have foundation models fine-tuned on organisational data - that's definitely possible, but to serve as a general-purpose database the schema of the existing databases would need to be preserved.
     
-    We'd need to devise a method of fine-tuning that would allow the hard relationships stored in a relational database to be converted into associations in semantic space, in such a way that we can reliably query the systematic data, but also use semantic traversals(?) to connect organisational data to general external data.
+    We'd need to devise a method of fine-tuning that would allow the hard relationships stored in a relational database to be converted into associations in semantic space, in such a way that we can reliably query the (ex-)relational data, but also connect that data to world concepts.
 
 - **Toy Example**
 
