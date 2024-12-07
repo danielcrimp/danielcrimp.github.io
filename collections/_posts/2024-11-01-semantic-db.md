@@ -58,7 +58,6 @@ In `countries_to_capitals.py`, I've built a script which takes twenty country-to
 
 **Number of correct guesses:** 39 out of 51 records.
 
-</p>
 
 #### Thoughts
 
