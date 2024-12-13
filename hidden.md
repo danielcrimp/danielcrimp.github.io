@@ -1,7 +1,6 @@
 ---
 layout: about
 permalink: /matta/
-# title: Hi Matta!
 headshot: /images/envelope.gif
 ---
 
