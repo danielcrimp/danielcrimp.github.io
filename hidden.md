@@ -1,10 +1,9 @@
 ---
 layout: about
 permalink: /matta/
-# headshot: /images/envelope.gif
+title: Hi Matta!
 ---
 
-## Hi Matta!
 Hope you enjoyed the package.
 
 I had a blast making it.
