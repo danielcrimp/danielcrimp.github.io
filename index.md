@@ -9,5 +9,5 @@ tags: home
 <br>
 Currently, I work at [Mesh-AI](https://mesh-ai.com/), a tech consultancy based in the UK.
 
-I'm a big fan of technology, running, photography, and making things people care about.
+I'm a big fan of humans, technology, running, photography, and making things people care about.
 <br>
