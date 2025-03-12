@@ -39,8 +39,26 @@ The rain started to set in maybe 30 minutes before we got to Lesmahagow. Until t
 
 We pulled into the accomodation in Lesmahagow in drizzle. The vibe was a bit weird admittedly, dead quiet and we had no idea how to check in. In my mirrors I saw a guy with facepaint on an e-scooter zoom past. I thought I was just being delirious for the long ride. Turns out it was a Hare Krishna commune. Nothing against that, but it was a bit unexpected. Cheap lodging at any rate. We walked into Lesmahagow and attempted to order dinner at what claimed to be the best chippy in the UK. We didn't understand their accent and they didn't understand ours. Luckily everything on the menu was some combination of meat and chips so we just pointed. Some kids were across the road while we ate, beating the piss out of a park bench. Not a heap of entertainment in Lesmahagow for the wee ones, I guess?
 
+# Sunday, 18/08/24
 The next day we had a sleep in and boosted to Glasgow around 9:30 to catch up with my mates Jamie, Kath and Calan from NZ. Jamie and Kath had just finished travelling Europe and Calan (Jamie's brother) was living in Glasgow. We had such an awesome time catching up. I started what would become a daily tradition of inhaling a full scottish breakfast.
 
 They saw us off on our way to Inverness. We went through Stirling, and visited the Wallace Monument. Was pretty cool. On our way up the hill, some australians overheard me talking shit and laughed, which gave me a big head. I was spouting some shit about only coming here to see mel gibson. I don't think I've seen any mel gibson movie, let alone braveheart.
 
 We stopped in Inverness to get groceries (hummus, pita bread and some sort of rice bowl), then on to Dingwall, where we had a cabin airbnb on a rural property. It was awesome. The hosts came out in woolen cardigans, and thick accents to meet us, and see us off. Chickens were clucking around. There was fresh milk in a mini fridge. It was dead quiet, hills rolling into the distance. It reminded me of home.
+
+There was a book on the shelf, Drive Your Plow Over the Bones of the Dead, by Olga Tokarczuk. It had a blue cover. I read some of it.
+
+# Monday, 19/08/24
+
+I needed film for my camera and some winter gloves. My Bandit didn't (yet) have heated grips installed and I had some Pando gloves purchased on cool factor. They are cool as fuck, so cool in fact that I couldn't feel my fingers.
+
+Lunch at a random eatery in Munlochy. Toasted sandwich with a side of salad and a... handful of crisps?
+
+Boost over to Ullapool, filling up at Contin, and missing a bloody epic shot of the dam at Loch Glascarnoch (google images shows me that it's been thrashed to death, so I don't feel so bad now). Qualifying what shots are worth stopping for is an art I'm terrible at. You pass the scene, and over the subsequent five minutes of riding you realise it wasn't gonna get better than that. I guess you gotta know when to hold 'em, and indeed, when to fold 'em.
+
+Stop for coffee at Ullapool. Some cool opportunities for shots there, but I didn't take much.
+
+Winding through the white-walled cottages in Ardmair. Stop for photos on the eastern shore of Loch Assynt - Ardvreck Castle was the subject, somewhere within which I assume is a chest containing an elven broadsword enchanted with 30 points of shock damage. Onward to Durness, where we park up at a bed+breakfast, completely buggered. We made sure to walk to walk to the beach before packing it in, and I got a few nice shots.
+
+## TODO add shots of durness beachfront, Ardvreck, etc
+
