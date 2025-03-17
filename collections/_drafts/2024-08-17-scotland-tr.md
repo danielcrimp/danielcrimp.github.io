@@ -62,3 +62,27 @@ Winding through the white-walled cottages in Ardmair. Stop for photos on the eas
 
 ## TODO add shots of durness beachfront, Ardvreck, etc
 
+# Tuesday, 20/08/24
+Wild Orchid Guest House in Durness to John O' Groats. Eat at Olive Cafe in Thurso and stop off in Dunnet Head on the way.
+
+# Wednesday, 20/08/24
+John O' Groats to Muir of Ord near Inverness.
+
+Drop the bike pulling over to change gloves in burn of latheron?
+Stop to eat at Dalmore farm shop + restaurant. Go to the coop and get a salad because we want vegetables
+
+# Thursday, 20/08/24
+Ord Arms Hotel near Muir of Ord out to Portree in Skye, double back to Kyle of Lochaish
+
+See the two guys in Portree with the Tiger/GS who point out applecross.
+
+# Friday, 20/08/24
+Shepherds Hut in Kyle of Lochaish to Camping Pod Heaven via Applecross.
+
+See the guy at the top of applecross swearing to himself. See the cyclists. Eliean Donan castle was cool. Get a "morning roll". Have lunch at the Applecross in, served by Australian lady. Stop for heaps of photos over applecross.
+
+# Saturday, 20/08/24
+Camping Pod Heaven Inverness to Edinburgh. Catch up with Dan, catch his set. Have a good yarn with Harry.
+
+# Sunday, 20/08/24
+Edinburgh to Clapham via Manchester. Massive downpour one we hit the M6 near the lake district. Push through 30 mins to Tebay Services and mong indoors for 90 minutes recharging. Rain lets up a bit. Back on the saddle an hour to Welcome Break, gas/coffee. Push an hour to the next welcome break. Push an hour to the next again in Warwick. Push 2hours to get home at 8pm., harry splits off at Oxford.
