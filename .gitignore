@@ -22,3 +22,6 @@ vendor/
 **/media
 
 **/__pycache__
+
+.env
+.venv

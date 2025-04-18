@@ -1,11 +1,23 @@
 ---
 layout: post
-title: Applying to Matta
+title: Returning to my roots 🌳
 date: 2025-03-31
 summary: Creating a full-stack CV, literally
 ---
 
-Recently, after two years working in tech consulting, I decided I wanted to try something new and make a move into a product company.
+Recently, after two years working in enterprise tech consulting, I decided I wanted to try something new and make a move into a product company.
+
+Here's the story of how I stumbled across a role that couldn't have been a better fit, and put my absolute best efforts into making my application.
+
+<div style="display: flex; justify-content: center;">
+    <model-viewer 
+    src="/assets/files/env.glb" 
+    alt="A 3D model" 
+    camera-controls 
+    exposure = "0.8"
+    style="width: 60%; height: 300px;">
+    </model-viewer>
+</div>
 
 I began my search with the usual pattern of LinkedIn SEO, networking events, rewriting my CV, and chatting to recruiters. Unfortunately, I have no secret sauce to offer for a successful approach in getting out of that grind - what worked best for me was simply a big stroke of luck.
 

@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-
+<!-- 
 {% assign minutes = content | strip_html | number_of_words | divided_by: 180 %}
-{% if minutes == 0 %} {% assign minutes = 1 %} {% endif %}
+{% if minutes == 0 %} {% assign minutes = 1 %} {% endif %} -->
 
 <style>
   p a {
@@ -41,6 +41,10 @@ layout: default
   .image-grid img {
     max-width: calc(50% - 10px);
     border-radius: 15px;
+  }
+
+  .model-viewer {
+  justify-content: center;
   }
 
   
