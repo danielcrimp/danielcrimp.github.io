@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On returning to my roots in hardware, and finding purpose
+title: Returning to my roots in hardware
 date: 2025-03-31
 summary: Creating a truly full-stack CV
 ---
@@ -15,30 +15,19 @@ Here's the story of how I initially struggled to sell myself as a technologist, 
 
 Those that know me know I'm a hardware person. I muck around with cars and motorcycles, build cameras and go out of my way to fix things that break, often at more expense than necessary. I'm 3 for 3 on nutribullet repairs.
 
- <!-- Further to a proclivity for fixing real shit, I'd like to think I'm a very grounded person. I thrive in a tidy room, with oft-watered houseplants, well-loved coffee mugs, reliable tools and fewer, better products. I need a very convenient, spartan digital setup, and as little screen-time as possible. -->
+You can imagine my innocent frustration when, upon finishing uni, the search for "robotics engineer" roles in central NZ yielded zero results. I ended up working at engineering-*sounding* businesses, but I felt I was never solving any "real" engineering problems. My technical skills did not improve fast. All the while, I'm reading online about the amazing work people were doing overseas at tech companies.
 
-You can imagine my innocent frustration when, upon finishing uni, the search for "robotics engineer" roles in central NZ yielded zero results. I ended up working at engineering-*sounding* businesses, but I felt I was never solving any "real" engineering problems.
+When I relocated to the UK, I decided to also make a move from corporate number-crunching into proper software development. This was a great decision - I felt so much more at home doing more technical work and talking with technical people. However, I eventually grew to be dissatisfied in how connected I was with the results of my work. I thought that maybe if I got a "proper" tech job, this might be fixed.
 
-When I planned to make my move from corporate number-crunching into proper software development, I anticipated feeling more at home in being around technologists - very talented people to learn from and compete with. I was not disappointed. I certainly encountered some extremely clever cats with immense abilities behind a keyboard. However, I noticed they often don't share my enthusiasm for the practical. They want to be good software engineers and data scientists, not use engineering and science expertise to make humans happy. For my number-8-wire, small-town-fella brain, this didn't sit right with me.
+## Solution to the job hunt: get very lucky
 
-I knew that tech consulting and tech were not really the same thing, so it was always in the back of my mind to work towards a traditional tech company, and take consulting as an intermediary step to develop my skills. Maybe making this leap to "proper tech" would solve my problem? However, when I started my search at product companies and had initial interviews and discussions, I noticed the same problem. Such a great proportion of the work in this field is set to the task of solving problems quite removed from the practical - targetting the upper boughs of the heirarchy of needs - and fair enough. That's where the people with money are. Here are the fintechs, wrappers, uber-for-dogs types.
+I spent a few months in discussions with various tech companies, and was quite unsuccessful. After some unfulfilling searching, I eventually stumbled across Matta. They had a lot of really digestible published research which they'd packaged as a slick product. Their opening sounded like one of the vanishingly few roles that would value hardware, software and creative skills. On the listing, they said applicants were encouraged to find creative ways to apply.
 
-The interviews and applications I had with these businesses, often via recruiters, did not give me the sense that this desire to help practically was valued. I found myself bending myself to try fit the software/data science tech hire mould - conducting myself and my CV in such a way that I looked like the brow-a-furrowed mechanical keyboard operator such a company might hire. I had some amount of success in this push of interviewing, but only gathered one offer which I didn't accept.
+## Applying Creatively
 
-I became pretty depressed - not only was I fighting an uphill battle passing technicals (let the record show I believe these to be a necessary barrier to entry) and reciting computer science hymns I was never taught - the prospective companies didn't even seem like they would improve my enjoyment of work.
+I knew Matta were involved in manufacturing, had a very technical founding team and a good sense of humour. I thought I'd come up with an application that showcased my abilities as a creative and multidisplinary engineer in such a way that aligned with their company's branding and DNA.
 
-Technologists were at some point - maybe prior to the dotcom thing - developing solutions for immediate and tangible problems, or creatively applying recent advancements to new domains. They were connected deeply to the impact they had on their communities. I do not mean to suggest that this was some golden era for technologists that we should resuscitate towards utopia - simply that their skills were not yet being grotesquely overutilised in realising a big-wins investment strategy. The commidification, explosion in demand for, and subsequent aristocratisation of humans willing to force their brains to think in rigid formulae rather than high-minded creativity has transformed them into weapons for shareholder value - that myopic goal possessed by hulking corporate entities with whom we now routinely - and awkwardly - cohabitate with on planet Earth.
-
-I truly believe that this realm of proposing/imposing and automating handling of abstractions will soon be a solved thing. All this programming stuff is a means to an end. Once the music stops, we'll be cast aside - out from under the umbrella of financial security that protects us from needing to think too hard about our contributions to humanity. We're going to need to become emotionally intelligent, creative and socially minded. We're going to need to remember why our predecessors decided to be builders in the first place.
-
-<!-- 
-I've long held the belief, though, that there are still things we can and should work on - nearer the physical world - that would result in a profound improvement in our daily lives, even if on paper we'd get better ROI from developing LLM wrappers. For example, if I calculate the cost of taking a month off and riding my motorcycle around southern spain, it would never make sense versus investing in property. However, the nebulous worldliness and peace of mind one might gain from such an exercise in manipulation of one's physical surroundings and aesthetic experiences might inspire something down the track that's much more profitable. You cannot determine the value of these exercises. What, then, if we were to engage in the act of increasing the availability of healthy eating to those in lower socioeconomic conditions? This would target a lower area in the hierarchy of needs, where people are not paying from large wallets. To uplift the floor of sustenance from mass-produced food to healthy, home-cooked meals? What would the gains to humanity be from that? What if a young woman runs an extra kilometre one night because of it? Wakes up a minute earlier, having slept soundly, and in that minute realises the solution to a worldly problem?
-
-What gains can be made from uplifting 
-
-There is such value to be gained in the uncompressed, uncategorised and unconquered realm of chaotic reality. -->
-
-
+So I designed this envelope that housed my CV and covering letter.
 
 <div style="display: flex; justify-content: center; margin-bottom: 2rem;">
     <model-viewer 
@@ -50,9 +39,22 @@ There is such value to be gained in the uncompressed, uncategorised and unconque
     </model-viewer>
 </div>
 
+The envelope was printed from PLA plastic. I designed each half using a band that acted as the sides, with internal tabs for fasteners. Then, covers for each half could be printed face-down (so as to pick up a beautiful finish from the print bed) and screwed down onto the bands with some countersunk screws. This gave the box a nice industrial look and feel.
+
+For the text on the box, I pulled the company logo from the website and vectorised it in GIMP. I also dropped the font into a font finder and selected a similar typeface to use for the rest of the text. I had to copy the 'a's as the font I found was dissimilar. I had to get creative and use the dots from the 'i's in the colons. Once I had it arranged attractively, I imported the vectors into Fusion and extruded them from the envelope face, taking care that they would be legible with the print resolution.
+
+I'd used a technique in a build at uni where you'd inject viscous acrylic paint into milled surfaces. The paint would adhere to the walls of each cut but sink in the middle, which would create a very nice radius once it set. I bought some paint syringes online and spent an evening injecting acrylic paint into the cuts in the print face.
 
 
+<div style="display: flex; justify-content: center; height: 350px; margin-bottom: 2rem;">
+  <img src="/images/matta-application/paint.png" alt="10:51:69pm" style="max-width: 100%; border-radius: 15px;">
+</div>
 
+I wanted a clever link to my website, because the hyperlinks in my CV probably wouldn't work after I printed it out. At first I was going to go for a QR code, but that would take too long to paint. So, I sourced some NFC tags online and got them delivered. They're just basically 1mm thick discs of 25mm diameter. I left a cutout in the back of one of the plates and glued the tag in behind it. You can program the tags using a simple phone utility.
+
+<div style="display: flex; justify-content: center; height: 350px; margin-bottom: 2rem;">
+  <img src="/images/matta-application/nfc.gif" alt="Scanning..." style="max-width: 100%; border-radius: 15px;">
+</div>
 
 <!-- To detail about the build
 - Design 
