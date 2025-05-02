@@ -15,13 +15,13 @@ Here's the story of how I initially struggled to sell myself as a technologist, 
 
 Those that know me know I'm a hardware person. I muck around with cars and motorcycles, build cameras and go out of my way to fix things that break, often at more expense than necessary. I'm 3 for 3 on nutribullet repairs.
 
-I wound up writing code for a living because I wanted to make stuff and fix stuff, and the market for digital stuff was hot. However, every career move I've made has been at least in part to chase the feeling of being connected to what I make.
+I wound up writing code for a living because I wanted to make stuff and fix stuff, and you could make a decent living if you fixed digital stuff. When I was in back home, I was making stuff, but something didn't feel right. I wasn't feeling particularly connected to the results of my work.
 
-When I relocated to the UK, I decided to also make a move from corporate number-crunching into proper software development. This was a great decision - I felt so much more at home doing more technical work and talking with technical people. However, I eventually grew to be dissatisfied in how connected I was with the results of my work. I thought that maybe if I got a "proper" tech job, this might be fixed.
+When I relocated to the UK, I decided to also make a move from corporate number-crunching into proper software development. This was a great decision - I felt so much more at home doing more technical work and talking with technical people. However, eventually I realised this still wasn't scratching the itch. I thought that maybe if I got a "proper" tech job, this might be fixed.
 
-## Solution to the job hunt: get very lucky
+## Finding the right role
 
-I spent a few months in discussions with various tech companies, and was quite unsuccessful. After some unfulfilling searching, I eventually stumbled across Matta. They had a lot of really digestible published research which they'd packaged as a slick product. Their opening sounded like one of the vanishingly few roles that would value hardware, software and creative skills. On the listing, they said applicants were encouraged to find creative ways to apply.
+I spent a few months in discussions with various tech companies, and was quite unsuccessful. I wasn't interviewing well, and I didn't get the impression that the work would be meaningfully better than equivalent enterprise work. After some unfulfilling searching, I eventually stumbled across Matta. They had a lot of really digestible published research which they'd packaged as a slick product. Their opening sounded like one of the vanishingly few roles that would value hardware, software and creative skills. On the listing, they said applicants were encouraged to find creative ways to apply.
 
 ## Applying Creatively
 
@@ -67,11 +67,18 @@ In hindsight, I think I really made the application for me. I liked it. I was *g
 
 While programming for a living is an awesome job and a privilege, I can't help but feel that something's changed since I was a kid and looking forward to a technical career.
 
-The type of problems engineers were once tasked with solving were mostly practical - we would make things for people in our immediate communities. Nowadays, our skills are put to designing solutions quite distantly abstracted from practical needs, often to automate thoughtwork within large organisations or address upper boughs of the hierarchy of needs.
+The type of problems engineers were once tasked with solving were mostly practical - we would make things for people in our immediate communities. Nowadays, our skills are put to designing solutions quite distantly abstracted from practical needs. Your average technical mind is more likely to be found creating a platform 
 
-This application, and indeed the multidisciplinary work that I've been lucky to take on since I started at Matta, showed me that there is still value to be generated in the immediate, practical and physical needs of human beings. It has been a very pleasant realisation that I can do this kind of work for a living, and the effects on my wellbeing have been huge.
+Making this application felt natural and easy. It reminded me that even though technologists are now focussed on bigger ideas, there is still value to be found in creating things to make our . It has been a very pleasant realisation that I can do this kind of work for a living, and the effects on my wellbeing have been huge.
 
 A final note. I have come to believe that programming is a means to an end - I think that engineering work involving imposing and automating abstractions will soon be a solved thing. I personally look forward to that day, and I'd like to challenge other technically-minded people to consider that perspective too. I think it means that engineers as professionals will no longer be such a hot commodity, and we'll have to remember why it is our predecessors became builders in the first place.
+
+> 
+"The place to improve the world is first in one's own heart and head and hands, and then work outward from there. Other people can talk about how to expand the destiny of mankind. I just want to talk about how to fix a motorcycle. I think that what I have to say has more lasting value."
+
+R. Pirsig, *Zen and The Art of Motorcycle Maintenance*
+
+
 
 Ka kite ano,
 
