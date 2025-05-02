@@ -15,7 +15,7 @@ Here's the story of how I initially struggled to sell myself as a technologist, 
 
 Those that know me know I'm a hardware person. I muck around with cars and motorcycles, build cameras and go out of my way to fix things that break, often at more expense than necessary. I'm 3 for 3 on nutribullet repairs.
 
-You can imagine my innocent frustration when, upon finishing uni, the search for "robotics engineer" roles in central NZ yielded zero results. I ended up working at engineering-*sounding* businesses, but I felt I was never solving any "real" engineering problems. My technical skills did not improve fast. All the while, I'm reading online about the amazing work people were doing overseas at tech companies.
+I wound up writing code for a living because I wanted to make stuff and fix stuff, and the market for digital stuff was hot. However, every career move I've made has been at least in part to chase the feeling of being connected to what I make.
 
 When I relocated to the UK, I decided to also make a move from corporate number-crunching into proper software development. This was a great decision - I felt so much more at home doing more technical work and talking with technical people. However, I eventually grew to be dissatisfied in how connected I was with the results of my work. I thought that maybe if I got a "proper" tech job, this might be fixed.
 
@@ -55,6 +55,27 @@ I wanted a clever link to my website, because the hyperlinks in my CV probably w
 <div style="display: flex; justify-content: center; height: 350px; margin-bottom: 2rem;">
   <img src="/images/matta-application/nfc.gif" alt="Scanning..." style="max-width: 100%; border-radius: 15px;">
 </div>
+
+Finally, I generated a gif from my CAD software which showed the box design being drawn up.
+
+<img src="/images/envelope.gif" style="width: 400px; height: 400px; border-radius: 1em; display: block; margin: 0 auto;">
+
+## Conclusion
+At the time of writing this, I'm sitting on the couch in the Matta office, having come in a bit early to finish off this post. I got the job!
+
+In hindsight, I think I really made the application for me. I liked it. I was *good* at it. I stayed up 'til midnight every day for a week - designing, painting and polishing, agonising over details. This was more effort than I'd put into anything I'd done at work since I was a recent graduate, and I think I know why.
+
+While programming for a living is an awesome job and a privilege, I can't help but feel that something's changed since I was a kid and looking forward to a technical career.
+
+The type of problems engineers were once tasked with solving were mostly practical - we would make things for people in our immediate communities. Nowadays, our skills are put to designing solutions quite distantly abstracted from practical needs, often to automate thoughtwork within large organisations or address upper boughs of the hierarchy of needs.
+
+This application, and indeed the multidisciplinary work that I've been lucky to take on since I started at Matta, showed me that there is still value to be generated in the immediate, practical and physical needs of human beings. It has been a very pleasant realisation that I can do this kind of work for a living, and the effects on my wellbeing have been huge.
+
+A final note. I have come to believe that programming is a means to an end - I think that engineering work involving imposing and automating abstractions will soon be a solved thing. I personally look forward to that day, and I'd like to challenge other technically-minded people to consider that perspective too. I think it means that engineers as professionals will no longer be such a hot commodity, and we'll have to remember why it is our predecessors became builders in the first place.
+
+Ka kite ano,
+
+Dan xx
 
 <!-- To detail about the build
 - Design 
