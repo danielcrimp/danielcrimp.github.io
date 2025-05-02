@@ -7,7 +7,7 @@ summary: Creating a truly full-stack CV
 
 Recently, after two years working in enterprise tech consulting, I decided to try something new and make a move into a product company.
 
-Here's the story of how I initially struggled to sell myself as a technologist, eventually stumbled across a role that couldn't have been a better fit, and put my absolute best efforts into making my application.
+Here's the story of how I applied to a really cool company.
 
 <div style="display: flex; justify-content: center; height: 350px; margin-bottom: 2rem;">
   <img src="/images/matta-application/office.jpeg" alt="The Office!" style="max-width: 100%; border-radius: 15px;">
@@ -17,13 +17,13 @@ Those that know me know I'm a hardware person. I muck around with cars and motor
 
 I wound up writing code for a living because I wanted to make stuff and fix stuff, and you could make a decent living if you fixed digital stuff. When I was in back home, I was making stuff, but something didn't feel right. I wasn't feeling particularly connected to the results of my work.
 
-When I relocated to the UK, I decided to also make a move from corporate number-crunching into proper software development. This was a great decision - I felt so much more at home doing more technical work and talking with technical people. However, eventually I realised this still wasn't scratching the itch. I thought that maybe if I got a "proper" tech job, this might be fixed.
+When I relocated to the UK, I decided to also make a move from corporate number-crunching into proper software development. This was a great decision - I felt so much more at home doing more technical work and talking with technical people. However, eventually I realised this still wasn't scratching the itch. I thought that maybe if I got a "proper" tech job, this might be fixed.[^1]
 
 ## Finding the right role
 
-I spent a few months in discussions with various tech companies, and was quite unsuccessful. I wasn't interviewing well, and I didn't get the impression that the work would be meaningfully better than equivalent enterprise work. After some unfulfilling searching, I eventually stumbled across Matta. They had a lot of really digestible published research which they'd packaged as a slick product. Their opening sounded like one of the vanishingly few roles that would value hardware, software and creative skills. On the listing, they said applicants were encouraged to find creative ways to apply.
+I spent a few months in discussions with various tech companies, and was quite unsuccessful. I wasn't interviewing well, and I didn't find suitable openings in companies that excited me. After some unfulfilling searching, I eventually stumbled across Matta. They had a lot of really digestible published research which they'd packaged as a slick product - cameras that get deployed on site and keep a watchful eye on manufacturing processes, picking up minute errors. Their opening sounded like one of the vanishingly few roles that would value hardware, software and creative skills. On the listing, they said applicants were encouraged to find creative ways to apply.
 
-## Applying Creatively
+## Challenge accepted
 
 I knew Matta were involved in manufacturing, had a very technical founding team and a good sense of humour. I thought I'd come up with an application that showcased my abilities as a creative and multidisplinary engineer in such a way that aligned with their company's branding and DNA.
 
@@ -65,24 +65,25 @@ At the time of writing this, I'm sitting on the couch in the Matta office, havin
 
 In hindsight, I think I really made the application for me. I liked it. I was *good* at it. I stayed up 'til midnight every day for a week - designing, painting and polishing, agonising over details. This was more effort than I'd put into anything I'd done at work since I was a recent graduate, and I think I know why.
 
-While programming for a living is an awesome job and a privilege, I can't help but feel that something's changed since I was a kid and looking forward to a technical career.
+Something changed since I was a kid, dreaming about a technical career. The type of problems our best minds once solved were practical. Nowadays, our skills are put to designing solutions for increasingly nebulous and abstract problems. Your average technical mind is more likely to be found creating the next fintech unicorn than repairing a pump for the well.[^2]
 
-The type of problems engineers were once tasked with solving were mostly practical - we would make things for people in our immediate communities. Nowadays, our skills are put to designing solutions quite distantly abstracted from practical needs. Your average technical mind is more likely to be found creating a platform 
-
-Making this application felt natural and easy. It reminded me that even though technologists are now focussed on bigger ideas, there is still value to be found in creating things to make our . It has been a very pleasant realisation that I can do this kind of work for a living, and the effects on my wellbeing have been huge.
-
-A final note. I have come to believe that programming is a means to an end - I think that engineering work involving imposing and automating abstractions will soon be a solved thing. I personally look forward to that day, and I'd like to challenge other technically-minded people to consider that perspective too. I think it means that engineers as professionals will no longer be such a hot commodity, and we'll have to remember why it is our predecessors became builders in the first place.
+Making this application reminded me there is still value to be found in creating things that serve humanity in real life. That I can work on these problems for a living is rewarding, and the transition to this work has had a hugely positive effect on my wellbeing.
 
 > 
-"The place to improve the world is first in one's own heart and head and hands, and then work outward from there. Other people can talk about how to expand the destiny of mankind. I just want to talk about how to fix a motorcycle. I think that what I have to say has more lasting value."
+"The place to improve the world is first in one's own heart and head and hands, and then work outward from there. Other people can talk about how to expand the destiny of mankind. I just want to talk about how to fix a motorcycle."
 
-R. Pirsig, *Zen and The Art of Motorcycle Maintenance*
+Robert Pirsig, *Zen and The Art of Motorcycle Maintenance*
 
-
-
-Ka kite ano,
+Ka kīte anō,
 
 Dan xx
+
+
+
+
+[^1]: I have come to believe that programming is a means to an end. I think that work involving the imposition and automation of abstractions will soon be a solved thing. I personally look forward to that day, and I'd like to challenge other technically-minded people to consider that perspective too. I think it means that engineers as professionals will no longer be such a hot commodity, and we'll have to remember why it is our predecessors became builders in the first place.
+
+[^2]: The reasons for this shift are not complicated. Private interests - ever present - and a large population of people with their practical needs satisfactorily (but not deeply) addressed. We're trying to run before we can walk.
 
 <!-- To detail about the build
 - Design 
