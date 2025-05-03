@@ -21,7 +21,7 @@ When I relocated to the UK, I decided to also make a move from corporate number-
 
 ## Finding the right role
 
-I spent a few months in discussions with various tech companies, and was quite unsuccessful. I wasn't interviewing well, and I didn't find suitable openings in companies that excited me. After some unfulfilling searching, I eventually stumbled across Matta. They had a lot of really digestible published research which they'd packaged as a slick product - indefatigable cameras that get deployed on site and keep a watchful eye on manufacturing processes, picking up minute errors. Their opening sounded like one of the vanishingly few roles that would value hardware, software, ML knowledge and creative skills. On the listing, they said applicants were encouraged to find creative ways to apply.
+I spent a few months researching and applying at various established tech companies and startups. this didn't go well. I wasn't interviewing well, and I wasn't very excited by a lot of the work that was out there. After some unfulfilling searching, I eventually stumbled across Matta. They had a lot of really digestible published research which they'd packaged as a slick product - indefatigable cameras that get deployed on site and keep a watchful eye on manufacturing processes, picking up minute errors. Their opening sounded like one of the vanishingly few roles that would value hardware, software, ML knowledge and creative skills. On the listing, they said applicants were encouraged to find creative ways to apply.
 
 ## Challenge accepted
 
