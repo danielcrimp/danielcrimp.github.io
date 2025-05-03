@@ -73,7 +73,7 @@ Making this application reminded me there is still value to be found in creating
 
 Robert Pirsig, *Zen and The Art of Motorcycle Maintenance*
 
-Ka kīte anō,
+Ka kite anō,
 
 Dan xx
 
