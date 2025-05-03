@@ -17,7 +17,7 @@ Those that know me know I'm a hardware person. I muck around with cars and motor
 
 I wound up writing code for a living because I wanted to make stuff and fix stuff, and you'd do alright if you fixed digital stuff. At least that's what my mate's dad said once. When I was in back home, I was technically making stuff, but something didn't feel right. I wasn't particularly connected to the results of my work.
 
-When I relocated to the UK, I decided to also make a move from corporate number-crunching into proper software development. This was a great decision - I felt so much more at home doing more technical work and talking with technical people. However, eventually I realised this still wasn't scratching the itch. I thought that maybe if I got a "proper" tech job, this might be fixed.[^1]
+When I relocated to the UK, I decided to also make a move from corporate number-crunching into proper software development. This was a great decision - I felt so much more at home doing more technical work and talking with technical people. However, eventually I realised this still wasn't scratching the itch. I thought that maybe if I got a "proper" tech job, this might be fixed.
 
 ## Finding the right role
 
@@ -64,7 +64,7 @@ At the time of writing this, I'm sitting on the couch in the Matta office, havin
 
 In hindsight, I think I really made the application for me. I liked it. I was *good* at it. I stayed up 'til midnight every day for a week - designing, painting and polishing, agonising over details. This was more effort than I'd put into anything I'd done at work since I was a recent graduate, and I think I know why.
 
-Something changed since I was a kid, dreaming about a technical career. The type of problems our best minds once solved were practical. Nowadays, our skills are put to designing solutions for increasingly nebulous and abstract problems. Your average technical mind is more likely to be found creating the next fintech unicorn than repairing a pump for the well.[^2]
+Something changed since I was a kid, dreaming about a technical career. The type of problems our best minds once solved were practical. Nowadays, our skills are put to designing solutions for increasingly nebulous and abstract problems. Your average technical mind is more likely to be found creating the next fintech unicorn than repairing a pump for the well.
 
 Making this application reminded me there is still value to be found in creating things that serve humanity in real life. That I can work on these problems for a living is rewarding, and the transition to this work has had a hugely positive effect on my wellbeing.
 
@@ -77,12 +77,6 @@ Ka kīte anō,
 
 Dan xx
 
-
-
-
-[^1]: Recently, I have come to believe that programming is a means to an end. I think that work involving the imposition and automation of abstractions will soon be a solved thing. I personally look forward to that day, because with any luck it will mean we can down laptops. and I'd like to challenge other technically-minded people to consider that perspective too. I think it means that engineers as professionals will no longer be such a hot commodity, and we'll have to remember why it is our predecessors became builders in the first place.
-
-[^2]: The reasons for this shift are not complicated. Private interests - ever present - and a large population of people with their practical needs satisfactorily (but not deeply) addressed. We're trying to run before we can walk.
 
 <!-- To detail about the build
 - Design 
