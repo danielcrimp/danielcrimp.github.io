@@ -15,13 +15,13 @@ Here's the story of how I applied to a really cool company.
 
 Those that know me know I'm a hardware person. I muck around with cars and motorcycles, build cameras and go out of my way to fix things that break, often at more expense than necessary. I'm 3 for 3 on nutribullet repairs.
 
-I wound up writing code for a living because I wanted to make stuff and fix stuff, and you could make a decent living if you fixed digital stuff. When I was in back home, I was making stuff, but something didn't feel right. I wasn't feeling particularly connected to the results of my work.
+I wound up writing code for a living because I wanted to make stuff and fix stuff, and you'd do alright if you fixed digital stuff. At least that's what my mate's dad said once. When I was in back home, I was technically making stuff, but something didn't feel right. I wasn't particularly connected to the results of my work.
 
 When I relocated to the UK, I decided to also make a move from corporate number-crunching into proper software development. This was a great decision - I felt so much more at home doing more technical work and talking with technical people. However, eventually I realised this still wasn't scratching the itch. I thought that maybe if I got a "proper" tech job, this might be fixed.[^1]
 
 ## Finding the right role
 
-I spent a few months in discussions with various tech companies, and was quite unsuccessful. I wasn't interviewing well, and I didn't find suitable openings in companies that excited me. After some unfulfilling searching, I eventually stumbled across Matta. They had a lot of really digestible published research which they'd packaged as a slick product - cameras that get deployed on site and keep a watchful eye on manufacturing processes, picking up minute errors. Their opening sounded like one of the vanishingly few roles that would value hardware, software and creative skills. On the listing, they said applicants were encouraged to find creative ways to apply.
+I spent a few months in discussions with various tech companies, and was quite unsuccessful. I wasn't interviewing well, and I didn't find suitable openings in companies that excited me. After some unfulfilling searching, I eventually stumbled across Matta. They had a lot of really digestible published research which they'd packaged as a slick product - indefatigable cameras that get deployed on site and keep a watchful eye on manufacturing processes, picking up minute errors. Their opening sounded like one of the vanishingly few roles that would value hardware, software, ML knowledge and creative skills. On the listing, they said applicants were encouraged to find creative ways to apply.
 
 ## Challenge accepted
 
@@ -39,16 +39,15 @@ So I designed this envelope that housed my CV and covering letter.
     </model-viewer>
 </div>
 
-The envelope was printed from PLA plastic. I designed each half using a band that acted as the sides, with internal tabs for fasteners. Then, covers for each half could be printed face-down (so as to pick up a beautiful finish from the print bed) and screwed down onto the bands with some countersunk screws. This gave the box a nice industrial look and feel.
+The envelope was printed from PLA plastic. I designed each half using a band that acted as the sides, with internal tabs for fasteners. I have a weird preference for avoiding requirement for supports and out-of-plane detail, and this design reduced that. Covers for each half could be printed face-down (so as to pick up a beautiful finish from the print bed) and screwed down onto the bands with some countersunk screws. This gave the box a nice industrial look and feel.
 
-For the text on the box, I pulled the company logo from the website and vectorised it in GIMP. I also dropped the font into a font finder and selected a similar typeface to use for the rest of the text. I had to copy the 'a's as the font I found was dissimilar. I had to get creative and use the dots from the 'i's in the colons. Once I had it arranged attractively, I imported the vectors into Fusion and extruded them from the envelope face, taking care that they would be legible with the print resolution.
-
-I'd used a technique in a build at uni where you'd inject viscous acrylic paint into milled surfaces. The paint would adhere to the walls of each cut but sink in the middle, which would create a very nice radius once it set. I bought some paint syringes online and spent an evening injecting acrylic paint into the cuts in the print face.
-
+I'd used this trick in a build at uni where you'd inject viscous acrylic paint into milled surfaces. The paint would adhere to the walls of each cut but sink in the middle, which would create a very nice radius once it set. I bought some paint syringes online and spent an evening injecting acrylic paint into the cuts in the print face.
 
 <div style="display: flex; justify-content: center; height: 350px; margin-bottom: 2rem;">
   <img src="/images/matta-application/paint.png" alt="10:51:69pm" style="max-width: 100%; border-radius: 15px;">
 </div>
+
+For the text, I pulled the company logo from the website and vectorised it in GIMP. I also dropped the raster into a font finder and selected a similar typeface to use for the rest of the text. I had to do some clever shit for some characters - using the dots from the I's as colons, and copying the 'a' entirely. Once I had it arranged attractively, I imported the vectors into Fusion and extruded them from the envelope face.
 
 I wanted a clever link to my website, because the hyperlinks in my CV probably wouldn't work after I printed it out. At first I was going to go for a QR code, but that would take too long to paint. So, I sourced some NFC tags online and got them delivered. They're just basically 1mm thick discs of 25mm diameter. I left a cutout in the back of one of the plates and glued the tag in behind it. You can program the tags using a simple phone utility.
 
@@ -81,7 +80,7 @@ Dan xx
 
 
 
-[^1]: I have come to believe that programming is a means to an end. I think that work involving the imposition and automation of abstractions will soon be a solved thing. I personally look forward to that day, and I'd like to challenge other technically-minded people to consider that perspective too. I think it means that engineers as professionals will no longer be such a hot commodity, and we'll have to remember why it is our predecessors became builders in the first place.
+[^1]: Recently, I have come to believe that programming is a means to an end. I think that work involving the imposition and automation of abstractions will soon be a solved thing. I personally look forward to that day, because with any luck it will mean we can down laptops. and I'd like to challenge other technically-minded people to consider that perspective too. I think it means that engineers as professionals will no longer be such a hot commodity, and we'll have to remember why it is our predecessors became builders in the first place.
 
 [^2]: The reasons for this shift are not complicated. Private interests - ever present - and a large population of people with their practical needs satisfactorily (but not deeply) addressed. We're trying to run before we can walk.
 
