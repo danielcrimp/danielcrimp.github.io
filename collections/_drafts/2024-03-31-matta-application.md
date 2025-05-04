@@ -21,7 +21,7 @@ When I relocated to the UK, I decided to also make a move from corporate number-
 
 ## Finding the right role
 
-I spent a few months researching and applying at established tech companies and startups. This didn't go great. I wasn't interviewing well, and I wasn't excited by a lot of the work that was out there. After some unfulfilling searching, I stumbled across Matta. They had a lot of really digestible published research which they'd packaged as a slick product - industrial cameras connected to an inference pipeline that can find problems in most manufacturing processes with barely a day's finetuning. Their opening sounded like one of the vanishingly few roles that would value hardware, software, ML knowledge and creative skills. On the listing, they said applicants were encouraged to find creative ways to apply.
+I spent a few months researching and applying at established tech companies and startups. This didn't go great. I wasn't interviewing well, and I wasn't excited by a lot of the work that was out there. After some unfulfilling searching, I stumbled across Matta. They had a lot of really digestible published research which they'd packaged as a slick product - industrial cameras connected to an inference pipeline that finds defects in most manufacturing processes with barely a day's finetuning. Their opening sounded like one of the vanishingly few roles that would value hardware, software, ML knowledge and creative skills. On the listing, they said applicants were encouraged to find creative ways to apply.
 
 ## Challenge accepted
 
@@ -44,7 +44,7 @@ The envelope was printed from PLA plastic. Each half has a band that acts as the
 Rather than design a clasp mechanism - which takes a lot of trial and error - I embedded neodymium magnets in the print which hold the cap on. The whole thing closes quite firmly with a nice thunk.
 
 <div style="display: flex; justify-content: center; height: 350px; margin-bottom: 2rem;">
-  <img src="/images/matta-application/IMG_6538.jpeg" style="max-width: 100%; border-radius: 15px;">
+  <img src="/images/matta-application/parts.jpeg" style="max-width: 100%; border-radius: 15px;">
 </div>
 
 My mate Ryan showed me this trick in a uni project where you'd inject viscous acrylic paint into milled surfaces. The paint would adhere to the walls of each cut but sink in the middle, which would create a very nice radius once it set. I bought some paint syringes online and spent an evening injecting acrylic paint into the cuts in the print face. For the text itself, I found a similar font and combined that with some vectors I scraped from their site assets.
@@ -67,11 +67,11 @@ Finally, I generated a gif from my CAD software which showed the box design bein
 ## Conclusion
 At the time of writing this, I'm sitting on the couch in the Matta office, having come in a bit early to finish off this post. I got the job!
 
-In hindsight, I think I really made the application for me. I liked it. I was *good* at it. I stayed up 'til midnight every day for a week - designing, painting and polishing, agonising over details. This was more effort than I'd put into anything I'd done at work since I was a recent graduate, and I think I know why.
+In hindsight, I think I really made the application for me. [I liked it. I was *good* at it.](https://www.youtube.com/watch?v=FQlAfI91cZ8) I stayed up 'til midnight every day for a week - designing, painting and polishing, agonising over details. Why did I put so much effort into this? In writing this post, I think I've figured out the answer to that.
 
 Something changed since I was a kid looking forward to a career in engineering. The type of problems our best minds once solved were practical. Nowadays, our skills are put to designing solutions for increasingly nebulous and abstract problems. Your average technical mind is more likely to be found creating the next fintech unicorn than repairing a pump for the well.
 
-Making this application reminded me there is still value to be found in creating things that serve humanity in real life. That I can work on these problems for a living is rewarding, and the transition to this work has had a hugely positive effect on my wellbeing.
+Making this application reminded me there is still value to be found in creating things that serve humanity in the real world. That I can work on these problems for a living is rewarding, and the transition to this work has had a hugely positive effect on my wellbeing.
 
 > 
 "The place to improve the world is first in one's own heart and head and hands, and then work outward from there. Other people can talk about how to expand the destiny of mankind. I just want to talk about how to fix a motorcycle."
