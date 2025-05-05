@@ -9,9 +9,8 @@ Recently, after two years working in enterprise tech consulting, I decided to tr
 
 I initially struggled to present as a typical tech hire. Then I found an atypical company - and made a very atypical application.
 
-<div style="display: flex; justify-content: center; height: 450px; margin-bottom: 2rem;">
-  <img src="/images/matta-application/office.jpeg" alt="The Office!" style="max-width: 100%; border-radius: 15px;">
-</div>
+<img src="/images/matta-application/office.jpeg" alt="The Office!" class="responsive-img">
+
 
 Those that know me know I'm a hardware person. I muck around with cars and motorcycles, build cameras and go out of my way to fix things that break, often at more expense than necessary. I'm 3 for 3 on nutribullet repairs.
 
@@ -29,39 +28,33 @@ I knew Matta were involved in manufacturing, had a very technical founding team 
 
 So I designed this envelope that housed my CV and covering letter, some Wellingtonian coffee-infused chocolate and a Dan Minifig.
 
-<div style="display: flex; justify-content: center; margin-bottom: 2rem;">
-    <model-viewer 
+<div class="responsive-container">
+  <model-viewer 
     src="/assets/files/env.glb" 
     alt="A 3D model" 
     camera-controls 
-    exposure = "0.8"
-    style="width: 75%; height: 300px;border-radius: 15px; overflow: hidden;">
-    </model-viewer>
+    exposure="0.8">
+  </model-viewer>
 </div>
+
 
 The envelope was printed from PLA plastic. Each half has a band that acts as the walls, with internal tabs for fasteners. This design minimises support structure and out-of-plane detail. Covers for each half could be printed face-down to pick up a nice finish from the print bed. Countersunk screws hold it all together and sit flush. I was stoked with the industrial feel of the thing. 
 
 Rather than design a clasp mechanism - which takes a lot of trial and error - I embedded neodymium magnets in the print which hold the cap on. The whole thing closes quite firmly with a nice thunk.
 
-<div style="display: flex; justify-content: center; height: 450px; margin-bottom: 2rem;">
-  <img src="/images/matta-application/parts.jpeg" style="max-width: 100%; border-radius: 15px;">
-</div>
+<img src="/images/matta-application/parts.jpeg" alt="Parts laid out" class="responsive-img">
 
 My mate Ryan showed me this trick in a uni project where you'd inject viscous acrylic paint into milled surfaces. The paint would adhere to the walls of each cut but sink in the middle, which would create a very nice radius once it set. I bought some paint syringes online and spent an evening injecting acrylic paint into the cuts in the print face. For the text itself, I found a similar font and combined that with some vectors I scraped from their site assets.
 
-<div style="display: flex; justify-content: center; height: 450px; margin-bottom: 2rem;">
-  <img src="/images/matta-application/paint.png" alt="10:51:69pm" style="max-width: 100%; border-radius: 15px;">
-</div>
+<img src="/images/matta-application/paint.png" alt="Paint fill detail" class="responsive-img">
 
 I wanted a clever link to my website, because the hyperlinks in my CV probably wouldn't work after I printed it out. At first I was going to go for a QR code, but that would take too long to paint. So, I sourced some NFC tags online and got them delivered. They're just basically 1mm thick discs of 25mm diameter. I left a cutout in the back of one of the plates and glued the tag in behind it. You can program the tags using a simple phone utility.
 
-<div style="display: flex; justify-content: center; height: 450px; margin-bottom: 2rem;">
-  <img src="/images/matta-application/nfc.gif" alt="Scanning..." style="max-width: 100%; border-radius: 15px;">
-</div>
+<img src="/images/matta-application/nfc.gif" alt="Scanning..." class="responsive-img">
 
 Finally, I generated a gif from my CAD software which showed the box design being drawn up. I displayed that on a hidden page on my website which provided a download for the CV and covering letter. The NFC tag linked to this page.
 
-<img src="/images/envelope.gif" style="width: 400px; height: 400px; border-radius: 1em; display: block; margin: 0 auto;">
+<img src="/images/envelope.gif" alt="Envelope animation" class="responsive-img">
 
 
 ## Conclusion
