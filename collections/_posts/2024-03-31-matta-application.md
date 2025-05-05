@@ -69,7 +69,7 @@ At the time of writing this, I'm sitting on the couch in the Matta office, havin
 
 In hindsight, I think I really made the application for me. [I liked it. I was *good* at it.](https://www.youtube.com/watch?v=FQlAfI91cZ8) I stayed up 'til midnight every day for a week - designing, painting and polishing, agonising over details. Why did I put so much effort into this? In writing this post, I think I've figured out the answer to that.
 
-Something changed since I was a kid looking forward to a career in engineering. The type of problems our best minds once solved were practical. Nowadays, our skills are put to designing solutions for increasingly nebulous and abstract problems. Your average technical mind is more likely to be found creating the next fintech unicorn than repairing a pump for the well.
+The type of problems our technical minds once solved were practical. Nowadays, our skills are directed toward designing solutions for increasingly nebulous and abstract problems.
 
 Making this application reminded me there is still value to be found in creating things that serve humanity in the real world. That I can work on these problems for a living is rewarding, and the transition to this work has had a hugely positive effect on my wellbeing.
 
