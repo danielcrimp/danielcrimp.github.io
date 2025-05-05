@@ -9,7 +9,7 @@ Recently, after two years working in enterprise tech consulting, I decided to tr
 
 I initially struggled to present as a typical tech hire. Then I found an atypical company - and made a very atypical application.
 
-<div style="display: flex; justify-content: center; height: 350px; margin-bottom: 2rem;">
+<div style="display: flex; justify-content: center; height: 450px; margin-bottom: 2rem;">
   <img src="/images/matta-application/office.jpeg" alt="The Office!" style="max-width: 100%; border-radius: 15px;">
 </div>
 
@@ -43,19 +43,19 @@ The envelope was printed from PLA plastic. Each half has a band that acts as the
 
 Rather than design a clasp mechanism - which takes a lot of trial and error - I embedded neodymium magnets in the print which hold the cap on. The whole thing closes quite firmly with a nice thunk.
 
-<div style="display: flex; justify-content: center; height: 350px; margin-bottom: 2rem;">
+<div style="display: flex; justify-content: center; height: 450px; margin-bottom: 2rem;">
   <img src="/images/matta-application/parts.jpeg" style="max-width: 100%; border-radius: 15px;">
 </div>
 
 My mate Ryan showed me this trick in a uni project where you'd inject viscous acrylic paint into milled surfaces. The paint would adhere to the walls of each cut but sink in the middle, which would create a very nice radius once it set. I bought some paint syringes online and spent an evening injecting acrylic paint into the cuts in the print face. For the text itself, I found a similar font and combined that with some vectors I scraped from their site assets.
 
-<div style="display: flex; justify-content: center; height: 350px; margin-bottom: 2rem;">
+<div style="display: flex; justify-content: center; height: 450px; margin-bottom: 2rem;">
   <img src="/images/matta-application/paint.png" alt="10:51:69pm" style="max-width: 100%; border-radius: 15px;">
 </div>
 
 I wanted a clever link to my website, because the hyperlinks in my CV probably wouldn't work after I printed it out. At first I was going to go for a QR code, but that would take too long to paint. So, I sourced some NFC tags online and got them delivered. They're just basically 1mm thick discs of 25mm diameter. I left a cutout in the back of one of the plates and glued the tag in behind it. You can program the tags using a simple phone utility.
 
-<div style="display: flex; justify-content: center; height: 350px; margin-bottom: 2rem;">
+<div style="display: flex; justify-content: center; height: 450px; margin-bottom: 2rem;">
   <img src="/images/matta-application/nfc.gif" alt="Scanning..." style="max-width: 100%; border-radius: 15px;">
 </div>
 
