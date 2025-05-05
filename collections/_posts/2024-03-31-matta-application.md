@@ -28,15 +28,15 @@ I knew Matta were involved in manufacturing, had a very technical founding team 
 
 So I designed this envelope that housed my CV and covering letter, some Wellingtonian coffee-infused chocolate and a Dan Minifig.
 
-<div class="responsive-container">
-  <model-viewer 
+<div style="display: flex; justify-content: center; margin-bottom: 2rem;">
+    <model-viewer 
     src="/assets/files/env.glb" 
     alt="A 3D model" 
     camera-controls 
-    exposure="0.8">
-  </model-viewer>
+    exposure = "0.8"
+    style="width: 75%; height: 300px;border-radius: 15px; overflow: hidden;">
+    </model-viewer>
 </div>
-
 
 The envelope was printed from PLA plastic. Each half has a band that acts as the walls, with internal tabs for fasteners. This design minimises support structure and out-of-plane detail. Covers for each half could be printed face-down to pick up a nice finish from the print bed. Countersunk screws hold it all together and sit flush. I was stoked with the industrial feel of the thing. 
 
