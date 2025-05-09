@@ -7,16 +7,15 @@ summary: Creating a truly full-stack CV
 
 Recently, after two years working in enterprise tech consulting, I decided to try something new and make a move into a product company.
 
-I initially struggled to present as a typical tech hire. Then I found an atypical company - and made a very atypical application.
+I initially struggled to present as a typical tech hire to typical tech companies. So, I found an atypical company and made an atypical application.
 
-<img src="/images/matta-application/office.jpeg" alt="The Office!" class="responsive-img">
+<img src="/images/matta-application/crimpy.jpeg" alt="Crimpy" class="responsive-img">
 
+Those that know me know I like working with physical things. I muck around with cars, build cameras and go out of my way to fix things, often at more expense than worthwhile. I'm 3 for 3 on nutribullet repairs.
 
-Those that know me know I'm a hardware person. I muck around with cars and motorcycles, build cameras and go out of my way to fix things that break, often at more expense than necessary. I'm 3 for 3 on nutribullet repairs.
+I wound up writing code for a living because I wanted to make stuff, and you'd do alright if you made software. At least that's what my mate's dad said once. When I was working in NZ, I had a pretty cool job writing code - but something didn't feel right. I didn't feel connected to the results of my work.
 
-I wound up writing code for a living because I wanted to make stuff and fix stuff, and you'd do alright if you fixed digital stuff. At least that's what my mate's dad said once. When I was working in NZ, I had a pretty cool job writing code - but something didn't feel right. I didn't feel connected to the results of my work.
-
-When I relocated to the UK, I decided to also make a move from corporate number-crunching into proper software development. This was a great decision - I felt so much more at home doing technical work with technical people. I soon realised this still wasn't scratching the itch. I thought that maybe if I got a "proper" tech job, this might be fixed.
+When I relocated to the UK, I decided to also make a move from corporate number-crunching into proper software development. This was a great decision - I felt so much more at home doing technical work with technical people. I soon realised this still wasn't scratching the itch. I thought that maybe if I got a role in-house at a reputable tech company with a product, this might be fixed.
 
 ## Finding the right role
 
@@ -26,7 +25,7 @@ I spent a few months researching and applying at established tech companies and 
 
 I knew Matta were involved in manufacturing, had a very technical founding team and a good sense of humour. I thought I'd come up with an application that showcased my abilities as a creative and multidisciplinary engineer in such a way that aligned with their company's character. I'd also read about their enthusiasm for Lego building breaks and coffee.
 
-So I designed this envelope that housed my CV and covering letter, some Wellingtonian coffee-infused chocolate and a Dan Minifig.
+So I designed this envelope that housed my CV and covering letter, some Wellingtonian coffee-infused chocolate and a Lego minifig.
 
 <div style="display: flex; justify-content: center; margin-bottom: 2rem;">
     <model-viewer 
@@ -48,7 +47,7 @@ My mate Ryan showed me this trick in a uni project where you'd inject viscous ac
 
 <img src="/images/matta-application/paint.png" alt="Paint fill detail" class="responsive-img">
 
-I wanted a clever link to my website, because the hyperlinks in my CV probably wouldn't work after I printed it out. At first I was going to go for a QR code, but that would take too long to paint. So, I sourced some NFC tags online and got them delivered. They're just basically 1mm thick discs of 25mm diameter. I left a cutout in the back of one of the plates and glued the tag in behind it. You can program the tags using a simple phone utility.
+I wanted a clever link to my website, because the hyperlinks in my CV probably wouldn't work after I printed it out. I sourced some NFC tags online and got them delivered. They're just basically 1mm thick discs of 25mm diameter. I left a cutout in the back of one of the plates and glued the tag in behind it. You can program the tags using a simple phone utility.
 
 <img src="/images/matta-application/nfc.gif" alt="Scanning..." class="responsive-img">
 
@@ -59,6 +58,8 @@ Finally, I generated a gif from my CAD software which showed the box design bein
 
 ## Conclusion
 At the time of writing this, I'm sitting on the couch in the Matta office, having come in a bit early to finish off this post. I got the job!
+
+<img src="/images/matta-application/office.jpeg" alt="The Office!" class="responsive-img">
 
 In hindsight, I think I really made the application for me. [I liked it. I was *good* at it.](https://www.youtube.com/watch?v=FQlAfI91cZ8) I stayed up 'til midnight every day for a week - designing, painting and polishing, agonising over details. Why did I put so much effort into this? In writing this post, I think I've figured out the answer to that.
 
