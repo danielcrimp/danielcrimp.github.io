@@ -9,7 +9,7 @@ headshot: /images/crimpy.jpg
 ## present
 I live in London, in the UK 🇬🇧
 
-I work as a software consultant, but I'm a hardware guy at heart. I'm also becoming increasingly involved in startups and personal projects.
+I work as a software engineer and data scientist, but I'm a hardware guy at heart. I love working in tech, especially early stage startups!
 
 I run a lot, explore the UK on my motorbike, and tinker with cameras in my spare time.
 
@@ -22,7 +22,9 @@ I run a lot, explore the UK on my motorbike, and tinker with cameras in my spare
 
 - 🗼 I wanted to focus on code, so I moved on to a role at Transpower, NZs national grid operator. NZ has ~23,000 transmission towers and they all need looking after. I built models that would predict which towers needed the most attention.
 
-- 🌍 Then, I wanted to travel. I sold everything I had and spent 6 months travelling Europe and the UK. The energy sector roped me back in, and I wound up working for National Grid via my employer, Mesh-AI, developing AI-powered planning tools. My current engagement is to help build a data platform for an energy trading organisation.
+- 🌍 Then, I wanted to travel. I sold everything I had and spent 6 months travelling Europe and the UK. The energy sector roped me back in, and I wound up working for National Grid via my employer, Mesh-AI, developing AI-powered planning tools.
+
+- 🚀 [Recently](https://dancrimp.nz/2025/03/31/hardware/), I joined a manufacturing AI startup, Matta, as their second engineering hire. It's been a blast so far, and I'm looking forward to where it goes next!
 
 ## future
 In the future, I want to work part time so I can focus on family, creativity and community. This will probably mean building a business of my own, or contributing signficantly to ventures by others. In the last couple years, I've started to make changes towards that goal. This site is one of those changes. So, thanks for your help.
