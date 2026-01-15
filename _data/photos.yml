@@ -1,0 +1,143 @@
+- caption: "glenorchy"
+  camera: Braun Super Paxette
+  shot_details: Portra 160
+  image: glenorchy.jpg
+  tags: [mountain]
+
+- caption: "lyall bay, wellington"
+  camera: Canon Sureshot 76
+  shot_details: Portra 160
+  image: lyall.jpg
+  tags: [beach]
+
+- caption: "brighton"
+  camera: Nikon F3 HP
+  shot_details: Kodak Gold 400
+  image: brighton.png
+  tags: [landscape, sunset]
+
+- caption: "dunnet head"
+  camera: custom camera (see "posts")
+  shot_details: Ultramax 400
+  image: dunnet.png
+  tags: [landscape, sunset]
+
+- caption: "malta"
+  camera: Nikon F3 HP
+  shot_details: Kodak Gold 400
+  image: malta.jpg
+  tags: [landscape, sunset]
+
+- caption: "copenhagen"
+  camera: Agfa Pocket 2000
+  shot_details: Lomography Tiger 200
+  image: copenhagen.png
+  tags: [landscape, sunset]
+
+- caption: "somewhere in the scottish highlands"
+  camera: Nikon F3 HP
+  shot_details: Kodak Gold 400
+  image: highlands.png
+  tags: [landscape, sunset]
+
+- caption: "tenby"
+  camera: Nikon F3 HP
+  shot_details: Ultramax 400
+  image: tenby.png
+  tags: [landscape, sunset]
+
+- caption: "aberystwyth"
+  camera: Nikon F3 HP
+  shot_details: Ultramax 400
+  image: aberystwyth.png
+  tags: [landscape, sunset]
+
+- caption: "applecross"
+  camera: custom camera (see "posts")
+  shot_details: Ultramax 400
+  image: applecross.png
+  tags: [landscape, sunset]
+
+- caption: "daisy bay"
+  camera: Nikon F3 HP
+  shot_details: Kodak Gold 400
+  image: daisybay.png
+  tags: [landscape, sunset]
+
+- caption: "matera"
+  camera: Nikon F3 HP
+  shot_details: unknown expired B+W stock
+  image: matera.png
+  tags: [landscape, sunset]
+
+- caption: "the thyssen, malaga"
+  camera: ektar h35n
+  shot_details: portra 800
+  image: thyssen.jpeg
+  tags: [museum]
+
+- caption: "biarritz"
+  camera: Nikon F3 HP
+  shot_details: probably ultramax
+  image: biarritz.jpeg
+  tags: []
+
+- caption: "manhattan"
+  camera: ektar h35n
+  shot_details: portra 800
+  image: manhattan.jpeg
+  tags: []
+
+- caption: "krk"
+  camera: ektar h35n
+  shot_details: ultramax 400
+  image: krk.jpeg
+  tags: []
+
+- caption: "barbican"
+  camera: Nikon F3 HP
+  shot_details: portra 400
+  image: barbican.jpeg
+  tags: [museum]
+
+- caption: "brooklyn"
+  camera: Nikon F3 HP
+  shot_details: portra 400
+  image: brooklyn.jpeg
+  tags: []
+
+- caption: "goodwood"
+  camera: Nikon F3 HP
+  shot_details: Ultramax 400
+  image: goodwood.jpeg
+  tags: []
+
+- caption: "porto"
+  camera: Nikon F3 HP
+  shot_details: Ultramax 400
+  image: porto.jpeg
+  tags: []
+
+- caption: "deptford"
+  camera: Olympus OM-D
+  shot_details:
+  image: deptford.jpeg
+  tags: []
+
+- caption: "greenwich"
+  camera: Olympus OM-D
+  shot_details:
+  image: greenwich.jpeg
+  tags: []
+
+- caption: "ghent"
+  camera: Olympus OM-D
+  shot_details:
+  image: ghent.jpeg
+  tags: []
+
+- caption: "dunkirk"
+  camera: Olympus OM-D
+  shot_details:
+  image: dunkirk.jpeg
+  tags: []
