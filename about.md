@@ -7,11 +7,9 @@ headshot: /images/crimpy.jpg
 ---
 
 ## present
-I live in London, in the UK 🇬🇧
+I work as a software engineer, but I'm a hardware guy at heart. I've enjoyed working at big companies and early-stage startups, but have been leaning more toward industrial design work recently.
 
-I work as a software engineer and data scientist, but I'm a hardware guy at heart. I love working in tech, especially early stage startups!
-
-I run a lot, explore the UK on my motorbike, and tinker with cameras in my spare time.
+I run a lot, explore the mountains and tinker with cameras in my spare time.
 
 ## past
 - 🇳🇿 I was born and raised in Greytown, in the Wairarapa region of New Zealand.
@@ -24,7 +22,9 @@ I run a lot, explore the UK on my motorbike, and tinker with cameras in my spare
 
 - 🌍 Then, I wanted to travel. I sold everything I had and spent 6 months travelling Europe and the UK. The energy sector roped me back in, and I wound up working for National Grid via my employer, Mesh-AI, developing AI-powered planning tools.
 
-- 🚀 [Recently](https://dancrimp.nz/2025/03/31/hardware/), I joined a manufacturing AI startup, Matta, as their second engineering hire. It's been a blast so far, and I'm looking forward to where it goes next!
+- 🚀 [Recently](https://dancrimp.nz/2025/03/31/hardware/), I had a stint at a manufacturing AI startup, Matta, as their second engineering hire. That was a blast. However, adventure called...
+
+- 🥾 I'm currently on a sabbatical to reflect on my time overseas and choose my next move carefully. I've motorcycled from London to Morocco, hiked in the midnight sun in Norway, spent a few months on the Pacific Crest Trail, and now I'm hanging out in the mountains for a bit.
 
 ## future
 In the future, I want to work part time so I can focus on family, creativity and community. This will probably mean building a business of my own, or contributing signficantly to ventures by others. In the last couple years, I've started to make changes towards that goal. This site is one of those changes. So, thanks for your help.
