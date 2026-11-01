@@ -40,7 +40,7 @@ I was quite paranoid about light leaks, so walls were made 2mm thick and a shoul
 
 I took this camera, along with my F3, up to Scotland with my friend Harry to ride the North Coast 500. To be clear, I wasn't even sure if it would work. Light might leak in constantly, the shutter might drag or get stuck, the film might tear, the lens mightn't be positioned to get correct focus on the film plane, etc etc.
 
-But, uhhh... it worked. First time. Yep! That never happens. Because of that resounding victory, I decided never to shoot another roll on that camera again. It definitely did not relate to that I was burnt out on the project and the camera took 25 minutes to load.
+But, uhhh... it worked. First time. Yep! That never happens. With that resounding victory, I decided never to shoot another roll on that camera again. It definitely did not relate to that I was burnt out on the project and the camera took 25 minutes to load.
 
 Anyway, here are some photos.
 
