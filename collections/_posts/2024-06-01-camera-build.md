@@ -9,11 +9,11 @@ summary: The best camera is the one you take with you
 
 I love taking photos, but I really dislike carrying stuff around. My Nikon F3 is my favourite object on earth - but, I came to love point and shoots like my Canon Sureshot 76 ($4 NZD) and Agfa Pocket 2000 ($18 NZD).
 
-That these cameras were so portable was truly awesome. The Canon's zoom lens was sharp and let me place a full 35mm frame wherever I wanted. The telescoping zoom lens was slow, and eventually broke. Only the Agfa was truly pocketable, and that shot 110 film. 110 isn't quite capable of producing the fidelity I'm after.
+That these cameras were so portable was truly awesome. The Canon's zoom lens was sharp and let me place a full 35mm frame wherever I wanted. However, the telescoping zoom lens was slow, and eventually broke. The Agfa was truly pocketable, but had no zoom capability and shot 110 film. 110 isn't quite capable of producing the fidelity I'm after.
 
 I wanted to see if I could source a camera that was as pocketable as the Agfa but as versatile as the Canon. I was not able to find one.
 
-The main constraint here is that with long focal lengths (zoom) comes large physical dimensions. Coarsely speaking, telephoto lenses need to be long to provide magnification.
+The main constraint here is that with long focal lengths (zoom) come large physical dimensions. Coarsely speaking, telephoto lenses need to be long to provide magnification.
 
 Most camera mechanisms have the film canister and takeup spool intersecting the image plane, which results in cameras having that T-shape you expect. Unless you have a very short lens - almost flush with the camera body, your camera will not fit in your pocket.
 
